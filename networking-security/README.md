@@ -302,4 +302,3 @@ We **welcome contributions!** If you have insights, new tools, or improvements, 
 📝 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
 💬 **Telegram Community:** [Join Here](https://t.me/prodevopsguy)  
 
-![Follow Me](https://imgur.com/2j7GSPs.png)

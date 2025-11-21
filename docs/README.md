@@ -1,6 +1,5 @@
 # 📂 Downloadable PDFs & Interview Guides  
 
-![docs](https://imgur.com/azjSOfp.png)
 
 Welcome to the **Docs Section** of the **DevOps Interview Questions & Answers** repository! 🚀  
 
@@ -55,4 +54,3 @@ This section contains **100+ carefully curated PDFs, cheat sheets, and interview
 📝 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
 💬 **Telegram Community:** [Join Here](https://t.me/prodevopsguy)  
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
